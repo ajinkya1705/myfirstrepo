@@ -1,3 +1,3 @@
 # myfirstrepo
 this is my first repository
-author: Ajinkya 
+author: Ajinkya Ashok Chandurkar
